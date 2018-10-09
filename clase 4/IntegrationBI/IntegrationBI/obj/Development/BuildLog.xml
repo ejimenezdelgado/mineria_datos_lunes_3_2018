@@ -1,14 +1,19 @@
 <?xml version="1.0"?>
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
-    <Name>Clase4</Name>
-    <LastWriteTime>2016-09-29T03:00:32.6306534Z</LastWriteTime>
+    <Name>IntegrationBI</Name>
+    <LastWriteTime>2017-10-23T20:09:47.4444132Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>Package.dtsx</Name>
-      <LastWriteTime>2016-09-29T20:19:19.3402531Z</LastWriteTime>
+      <Name>SSIS SA.dtsx</Name>
+      <LastWriteTime>2017-11-29T20:40:12.6629675Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>SSIS DW.dtsx</Name>
+      <LastWriteTime>2017-11-29T21:03:42.5070903Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
